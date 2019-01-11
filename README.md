@@ -5,3 +5,5 @@ The Deformation file takes PIV data from Image J and plots the PIV vector. It in
 The Directedness file based on euclidian and actual path of the migration towards the center of force as well as the overal angle, tells you if the movement of macrophages is directed or not.
 
 The Migration analysis is step by step or overal velocity and angle of movement of macrophages. Depending on steps (time) and original data the code can be changed.
+
+Polar plot shows the force field with the position of attracted and non attracted macrophages from the center of the force.
